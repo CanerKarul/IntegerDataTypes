@@ -1,0 +1,15 @@
+C:\Users\cnnrk\Desktop\coursera\c_sharp_egitim\IntegerDataTypes\bin\Debug\net6.0\IntegerDataTypes.exe
+C:\Users\cnnrk\Desktop\coursera\c_sharp_egitim\IntegerDataTypes\bin\Debug\net6.0\IntegerDataTypes.deps.json
+C:\Users\cnnrk\Desktop\coursera\c_sharp_egitim\IntegerDataTypes\bin\Debug\net6.0\IntegerDataTypes.runtimeconfig.json
+C:\Users\cnnrk\Desktop\coursera\c_sharp_egitim\IntegerDataTypes\bin\Debug\net6.0\IntegerDataTypes.dll
+C:\Users\cnnrk\Desktop\coursera\c_sharp_egitim\IntegerDataTypes\bin\Debug\net6.0\IntegerDataTypes.pdb
+C:\Users\cnnrk\Desktop\coursera\c_sharp_egitim\IntegerDataTypes\obj\Debug\net6.0\IntegerDataTypes.csproj.AssemblyReference.cache
+C:\Users\cnnrk\Desktop\coursera\c_sharp_egitim\IntegerDataTypes\obj\Debug\net6.0\IntegerDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnnrk\Desktop\coursera\c_sharp_egitim\IntegerDataTypes\obj\Debug\net6.0\IntegerDataTypes.AssemblyInfoInputs.cache
+C:\Users\cnnrk\Desktop\coursera\c_sharp_egitim\IntegerDataTypes\obj\Debug\net6.0\IntegerDataTypes.AssemblyInfo.cs
+C:\Users\cnnrk\Desktop\coursera\c_sharp_egitim\IntegerDataTypes\obj\Debug\net6.0\IntegerDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\cnnrk\Desktop\coursera\c_sharp_egitim\IntegerDataTypes\obj\Debug\net6.0\IntegerDataTypes.dll
+C:\Users\cnnrk\Desktop\coursera\c_sharp_egitim\IntegerDataTypes\obj\Debug\net6.0\refint\IntegerDataTypes.dll
+C:\Users\cnnrk\Desktop\coursera\c_sharp_egitim\IntegerDataTypes\obj\Debug\net6.0\IntegerDataTypes.pdb
+C:\Users\cnnrk\Desktop\coursera\c_sharp_egitim\IntegerDataTypes\obj\Debug\net6.0\IntegerDataTypes.genruntimeconfig.cache
+C:\Users\cnnrk\Desktop\coursera\c_sharp_egitim\IntegerDataTypes\obj\Debug\net6.0\ref\IntegerDataTypes.dll
